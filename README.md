@@ -1,6 +1,6 @@
 # [Wedding Hall](www.weddinghall.co.in)
 
-THe website is a landing page for the marriagehall mobile app on android. 
+The website is a landing page for the marriagehall mobile app on android. 
 
 [Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
 
@@ -12,7 +12,7 @@ To use this theme, choose one of the following options to get started:
 
 ## Bugs and Issues
 
-Have a bug or an issue with this theme? 
+Have a bug or an issue with this theme?
 
 
 

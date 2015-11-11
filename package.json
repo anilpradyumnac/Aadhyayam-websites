@@ -1,0 +1,26 @@
+{
+  "name": "wedding-hall",
+  "version": "1.0.0",
+  "description": "wedding hall",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anilpradyumnac/Aadhyayam-websites.git"
+  },
+  "keywords": [
+    "wedding",
+    "hall"
+  ],
+  "author": "Anil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anilpradyumnac/Aadhyayam-websites/issues"
+  },
+  "homepage": "https://github.com/anilpradyumnac/Aadhyayam-websites#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
